@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web- Development ,DATA-Structure and algorithm**
 
-- 📫 How to reach me **manishkumardeveloper786@gmail.com**
+- 📫 How to reach me **kumawatmanish649@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
