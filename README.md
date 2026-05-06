@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumawat2655&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumawat2655" /> </p>
 
-- 🔭 I’m currently working as **UG Student at NIT Rourkela**
+- 🔭 I’m currently working as **EE@ NIT Rourkela**
 
 - 🌱 I’m currently learning **Backend Development (MERN)**
 
